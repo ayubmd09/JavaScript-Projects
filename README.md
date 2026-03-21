@@ -1,1 +1,1 @@
-# JavaScript-Projects
+# This repo is created for JavaScript-Projects
