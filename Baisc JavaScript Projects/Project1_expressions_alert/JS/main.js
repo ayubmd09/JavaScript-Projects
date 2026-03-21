@@ -1,2 +1,2 @@
-var A = "This is a string";
-document.write(A);
+var myString = "This is for String Assignment";
+window.alert(myString);
