@@ -1,4 +1,11 @@
 function addNumbers() {
-    var result = 5 - 3; // subtraction operation
-    document.getElementById("Math").innerHTML = "5 - 3 = " + result;
+    var x = 10;
+    var y = 2;
+
+    var multiply = x * y;
+    var divide = x / y;
+
+    document.getElementById("Math").innerHTML =
+        x + " × " + y + " = " + multiply + "<br>" +
+        x + " ÷ " + y + " = " + divide;
 }
