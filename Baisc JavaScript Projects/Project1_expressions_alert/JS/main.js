@@ -1,2 +1,4 @@
-var myString = "\"This is an example of" + "concatenating a \"string\" ";
-document.writeln(myString);
+var firstVariable = "This is first variable",
+    secondVariable = "This is second variable",
+    thirdVariable = "This is third variable";
+document.write(secondVariable);
