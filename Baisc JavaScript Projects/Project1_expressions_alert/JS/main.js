@@ -1,2 +1,2 @@
-var myString = "This is for String Assignment";
-window.alert(myString);
+var myString = "This is a \"test\" for the escape char";
+document.writeln(myString);
