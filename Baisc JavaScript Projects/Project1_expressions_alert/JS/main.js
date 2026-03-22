@@ -1,2 +1,2 @@
-var myString = "This is a \"test\" for the escape char";
+var myString = "\"This is an example of" + "concatenating a \"string\" ";
 document.writeln(myString);
